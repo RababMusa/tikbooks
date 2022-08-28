@@ -1359,7 +1359,7 @@ Privacy Policy Page CSS
     }
 }
 .contantContact .two-side-col{
-    align-items: start;
+    align-items: start !important;
 }
 
 /*start captcha*/
