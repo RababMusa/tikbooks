@@ -1358,6 +1358,9 @@ Privacy Policy Page CSS
         display: none;
     }
 }
+.contantContact .two-side-col{
+    align-items: start;
+}
 
 /*start captcha*/
 
