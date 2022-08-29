@@ -1336,7 +1336,7 @@ Privacy Policy Page CSS
     
 }
 .contantContact .two-side-col{
-    text-align: start !important;
+    align-items: start !important;
 }
 .btnsend{
     margin-bottom: 30px;
